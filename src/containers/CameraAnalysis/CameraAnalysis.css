@@ -1,0 +1,13 @@
+.camera {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    min-height: 240px;
+    width: 90vw;
+}
+
+#chartdiv {
+    width: 100% !important;
+    height : 230px !important;
+    border: 1px solid lightgray;
+}

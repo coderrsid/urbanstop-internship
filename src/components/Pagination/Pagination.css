@@ -1,0 +1,38 @@
+.pagination-container {
+    height : 100%;
+    display: flex;
+    width: 90vw;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+
+.pagination{
+    display: flex;
+    width: 30%;
+}
+
+.pagination div {
+    padding: 5px 10px;
+    font-size: 0.8em;
+    font-family: sans-serif;
+    
+}
+
+.pagination div:nth-child(2){
+    background-color: rgb(29,43,68);
+    color: white;
+    border-radius: 2px;
+}
+
+button{
+    padding: 5px 30px;
+    margin-left: 30px;
+    color: rgb(29,43,68);
+    font-size: 1.02em; 
+    background-color: rgb(230,231,236);
+    border-color: rgb(230,231,236);
+    border-radius: 3px;
+
+}
+
