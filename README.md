@@ -13,3 +13,6 @@ Extra details you might need to complete this task:
 
 
 ### Final Link: http://urbanstop-internship.surge.sh/
+
+#### NOTE
+I used AmChart instead, as the Gantt Chart in D3.js is in beta-version and could not be customised so easily. But i tried to replicate it at my best level.
